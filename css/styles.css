@@ -1,10 +1,10 @@
 html {
-    font-size: 62.5%;
+    font-size: 8px;
 }
 
 p {
-    color: red;
-    font-size: 10rem;
+    color: rgb(81, 255, 0);
+    font-size: 30rem;
 }
 h1 {
     color: blue;
